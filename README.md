@@ -48,14 +48,14 @@
 ## 3. 서비스 구성도
 
 - 서비스 구조도 그림 (사용한 기술 스택)
-<img src = "/uploads/97d91de19ecaa1ef1495aa0c1af8d644/image.png" width="80%" height="80%">
+<img src = "https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team12/schedule_monster/uploads/97d91de19ecaa1ef1495aa0c1af8d644/image.png" width="80%" height="80%">
 
 - 와이어프레임 : [와이어프레임 바로가기](https://mirage-cardboard-868.notion.site/DB-d011b31d832a45258fd8343f303a8a85)
 
 - API 명세서 : [API 명세서 바로가기](https://mirage-cardboard-868.notion.site/API-6605e3921b154407a3179673937b2b1d)
 
 - DB 모델링 : [DB 스키마 바로가기](https://mirage-cardboard-868.notion.site/DB-d011b31d832a45258fd8343f303a8a85)
-<img src = "/uploads/ef4c718f6b119fcac310887e499151e3/image.png" width="80%" height="80%">
+<img src = "https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team12/schedule_monster/uploads/ef4c718f6b119fcac310887e499151e3/image.png" width="80%" height="80%">
 
 ## 4. 프로젝트 팀원 역할 분담
 
@@ -154,23 +154,23 @@ SMTPPW='{이메일 인증을 위한 Password}'
 ### 6. 데모 영상
 
 <details><summary>메인 페이지</summary>
-<img src = '/uploads/811237270c57ad560b0d117848b0eb25/1.gif' width ="640px" />
+<img src = 'https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team12/schedule_monster/uploads/811237270c57ad560b0d117848b0eb25/1.gif' width ="640px" />
 </details>
 
 <details><summary>사용자 마이페이지</summary>
-<img src = '/uploads/d25c8242424231e56ed07ee55ac5a42e/2.gif' width ="640px" />
+<img src = 'https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team12/schedule_monster/uploads/d25c8242424231e56ed07ee55ac5a42e/2.gif' width ="640px" />
 </details>
 
 <details><summary>캘린더 페이지</summary>
-<img src = '/uploads/f78d4447e808a8b1ef2d7058dbb5dea2/ezgif.com-gif-maker__2_.gif' width ="640px" />
+<img src = 'https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team12/schedule_monster/uploads/f78d4447e808a8b1ef2d7058dbb5dea2/ezgif.com-gif-maker__2_.gif' width ="640px" />
 </details>
 
 <details><summary>캘린더 다른 사용자와 공유하는 기능</summary>
-<img src = '/uploads/93b49903bc6b218b728beaf818b1179b/5.gif' width ="640px" />
+<img src = 'https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team12/schedule_monster/uploads/93b49903bc6b218b728beaf818b1179b/5.gif' width ="640px" />
 </details>
 
 <details><summary>캘린더 추가</summary>
-<img src = '/uploads/4878030e32a99a83f4ef0e880a537c3d/3.gif' width ="640px" />
+<img src = 'https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team12/schedule_monster/uploads/4878030e32a99a83f4ef0e880a537c3d/3.gif' width ="640px" />
 </details>
 
 <details><summary>캐릭터 페이지</summary>
@@ -182,7 +182,7 @@ SMTPPW='{이메일 인증을 위한 Password}'
 </details>
 
 <details><summary>관리자 페이지</summary>
-<img src = '/uploads/5ed7e69f56f17789a61c572a80bc7fe6/8.gif' width ="640px" />
+<img src = 'https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team12/schedule_monster/uploads/5ed7e69f56f17789a61c572a80bc7fe6/8.gif' width ="640px" />
 
 </details>
 
